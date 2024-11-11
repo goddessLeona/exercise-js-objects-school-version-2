@@ -1,5 +1,5 @@
 
-class Subjects {
+export class Subjects {
     constructor(nameSubject, nameStudent, grades, teacher, notes){
         this.nameSubject = nameSubject;
         this.nameStudent = nameStudent;

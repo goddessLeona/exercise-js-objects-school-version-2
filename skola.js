@@ -1,5 +1,5 @@
 
-class Skola {
+export class Skola {
     constructor(name,type,city,address, students, teachers){
         
         this.name = name;

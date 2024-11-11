@@ -1,5 +1,5 @@
 
-class Students {
+export class Students {
     constructor(name, school,study, subjects, passedClasses, failedClasses){
         this.name = name;
         this.school = school;
@@ -10,3 +10,4 @@ class Students {
         this.failedClasses = failedClasses;
     }
 }
+
